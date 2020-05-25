@@ -1,5 +1,5 @@
 ### download three.js
-You can get three,js from [official page](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+You can get three.js from [official page](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
 
 ### run locally
 Node.js http-server

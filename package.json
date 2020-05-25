@@ -1,0 +1,27 @@
+{
+  "name": "threejs-playground",
+  "version": "1.0.0",
+  "description": "Node.js http-server Node.js has a simple HTTP server package. To install: ``` npm install http-server -g ``` To run (from your local directory): ``` http-server . -p 8000 ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogp112/threejs-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogp112/threejs-playground/issues"
+  },
+  "homepage": "https://github.com/kogp112/threejs-playground#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "three": "^0.116.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
